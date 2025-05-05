@@ -1,7 +1,7 @@
 # HTTP Exit Script
 
 This simple script checks if a website is being accessed via `http://` instead of `https://`, and automatically exits or redirects the user.
-## Support
+## Support the project
 https://www.donationalerts.com/r/techjacket1022
 
 ## How It Works
