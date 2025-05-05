@@ -1,4 +1,4 @@
-# HTTP Exit Script
+# HTTP Exit Script # html #javascript # Security 
 
 This simple script checks if a website is being accessed via `http://` instead of `https://`, and automatically exits or redirects the user.
 ## Support the project
